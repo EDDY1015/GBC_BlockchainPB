@@ -1,3 +1,19 @@
+List of team members: Submitted by:
+
+1. Aditya Guleria
+
+Student ID - 101577843
+
+2. Fuad Hussein Dida 
+
+Student ID - 101503533 
+
+Important : Please install Node Modules prior to running the app.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
