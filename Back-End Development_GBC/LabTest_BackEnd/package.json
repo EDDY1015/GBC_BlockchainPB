@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "parser": "^0.1.4"
+  }
+}
